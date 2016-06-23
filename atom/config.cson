@@ -1,0 +1,17 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Menlo"
+    softTabs: false
+  "exception-reporting":
+    userId: "53b58e24-027f-f3ad-0305-ed300b74e519"
+  "one-dark-ui":
+    tabSizing: "Even"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

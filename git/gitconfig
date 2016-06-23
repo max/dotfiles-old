@@ -1,0 +1,18 @@
+[color]
+  branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+  ui = auto
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = atom --wait
+[credential]
+  helper = osxkeychain
+[github]
+  user = max
+[push]
+  default = simple
+[user]
+  name = Max Schoening
+  email = max@max.wtf
